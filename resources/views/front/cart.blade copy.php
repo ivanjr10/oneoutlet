@@ -1,0 +1,1 @@
+d:\Documentos\Trabalhos\novo_outlet\resources\views\front\cart.blade copy.php
